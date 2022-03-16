@@ -9,8 +9,24 @@
 
 I'm a Product Engineer working at the Developer Experience Team which is in charge of [developers.arcgis.com](https://developers.arcgis.com/).
 
-I'm here to share code, knowledge, contribute to cool repos.
+I'm here to share code, knowledge, contribute to cool repos like this:
+[[![Awesome lists](https://img.shields.io/badge/Awesome_lists-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)]()](https://github.com/esri/awesome-arcgis-developer)
 
 #### Github Stats 📊
 
 [![Raul Jimenez's github stats](https://github-readme-stats.vercel.app/api?username=hhkaos&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Skills
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white&labelColor=101010)]()
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white&labelColor=101010)]()
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-4479A1?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=101010)]()
+
+</br>
+And more...
