@@ -9,8 +9,7 @@
 
 I'm a Product Engineer working at the Developer Experience Team which is in charge of [developers.arcgis.com](https://developers.arcgis.com/).
 
-I'm here to share code, knowledge, contribute to cool repos like this:
-[[![Awesome lists](https://img.shields.io/badge/Awesome_lists-FC60A8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)]()](https://github.com/esri/awesome-arcgis-developer)
+I'm here to share code, knowledge, contribute to cool repos like this [github.com/esri/awesome-arcgis-developer](https://github.com/esri/awesome-arcgis-developer).
 
 #### Github Stats 📊
 
